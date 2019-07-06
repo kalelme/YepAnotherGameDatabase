@@ -1,2 +1,2 @@
 # YepAnotherGameDatabase
-Well Another DataBase Game over laravel
+Well Another Game Database over laravel
